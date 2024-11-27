@@ -1,0 +1,6 @@
+projectKey=vite_react_vitest
+serverUrl=http://localhost:9050
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9050/dashboard?id=vite_react_vitest
+ceTaskId=6057410f-8b79-4406-8dc5-7a9d350a177f
+ceTaskUrl=http://localhost:9050/api/ce/task?id=6057410f-8b79-4406-8dc5-7a9d350a177f
